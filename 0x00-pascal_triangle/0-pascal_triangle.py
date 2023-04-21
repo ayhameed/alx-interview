@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-''' Pascal's triangle.
+''' 0-pascal_triangle.py 
 '''
 
 def pascal_triangle(n):
